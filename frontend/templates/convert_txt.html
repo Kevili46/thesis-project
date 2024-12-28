@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>AI-Testing | Converting</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='styles/style.css') }}" />
+  <link rel="stylesheet" href="{{ url_for('static', filename='styles/color.css') }}" />
+  <link rel="icon" type="image/png" sizes="32x32" href="{{ url_for('static', filename='img/favicon-32x32.png') }}" />
+  <script src="{{ url_for('static', filename='scripts/nav.js') }}" defer></script>
+</head>
+
+<body>
+  <div id="loader"><span></span></div>
+  <nav id="main-nav">
+    <ul></ul>
+  </nav>
+  <div class="content converter-box">
+    <div>
+      <h1>Convert sethub Doc to txt</h1>
+      <p style="color: var(--clr-font-light)">
+        saves to: {{src}} (formatted for jsonl-Converter)
+      </p>
+      <p style="color: var(--clr-font-light)">
+        saves to: {{src2}} (formatted for VectorStore-Embeddings)
+      </p>
+      <div class="convert">
+        <form action="/fetch-convert" method="get">
+          <input type="submit" value="Fetch & Convert" />
+        </form>
+        <form action="/upload-doc" method="get">
+          <input type="submit" value="Upload to DB" />
+        </form>
+      </div>
+    </div>
+    <div>
+      <h1>Convert .txt file to other</h1>
+      <p class="file-tag src-file">{{src}}</p>
+      <p class="file-tag data-file-json">{{file_jsonl}}</p>
+      <p class="file-tag data-file-csv">{{file_csv}}</p>
+      <div class="convert-files">
+        <div>
+          <h2>.jsonl</h2>
+          <form action="/converting-jsonl" method="get">
+            <input type="submit" value="Convert .jsonl" />
+          </form>
+          <form action="/delete-trainingdata-jsonl" method="get">
+            <input type="submit" value="reset Dataset" />
+            <p class="notice">Deletes all sets in .jsonl</p>
+          </form>
+        </div>
+        <div>
+          <h2>.csv</h2>
+          <form action="/converting-csv" method="get">
+            <input type="submit" value="Convert .csv" />
+          </form>
+          <form action="/delete-trainingdata-csv" method="get">
+            <input type="submit" value="reset Dataset" />
+            <p class="notice">Deletes all sets in .csv</p>
+          </form>
+        </div>
+      </div>
+    </div>
+    {%if session['notice'] != '' %}
+    <h2 class="notice">{{session['notice']}}</h2>
+    {% endif %}
+  </div>
+</body>
+
+</html>

@@ -1,0 +1,283 @@
+{"input": "Ich möchte die Farbe ändern in blau bitte", "action": "True", "output": "#0000FF"}
+{"input": "Kannst du bitte die Farbe grün benutzen?", "action": "True", "output": "#00FF00"}
+{"input": "Wieso ist die Farbe blau?", "action": "False", "output": ""}
+{"input": "Kann ich die Farbe ändern?", "action": "False", "output": ""}
+{"input": "Ändere die Farbe zu orange", "action": "True", "output": "#FFA500"}
+{"input": "Was ist der Unterschied zwischen rot und orange?", "action": "False", "output": ""}
+{"input": "Welche Farben gehören zum Regenbogen?", "action": "False", "output": ""}
+{"input": "Mach die Farbe lila", "action": "True", "output": "#800080"}
+{"input": "Ändere die Farbe zu #ff0000", "action": "True", "output": "#FF0000"}
+{"input": "Farbe bitte zu 252,0,121", "action": "True", "output": "#FC0079"}
+{"input": "Kannst du mir sagen, welche Farbe grün als Hex-Wert hat?", "action": "False", "output": ""}
+{"input": "Wie lautet die rgb Bezeichnung für rot?", "action": "False", "output": ""}
+{"input": "Wie wird der rgb-Wert einer Farbe zusammengesetzt?", "action": "False", "output": ""}
+{"input": "Farbe zu 049249 ändern", "action": "True", "output": "#049249"}
+{"input": "Mach die Farbe hellblau", "action": "True", "output": "#ADD8E6"}
+{"input": "Kannst du die Farbe auf pink einstellen?", "action": "True", "output": "#FFC0CB"}
+{"input": "Wie kann man die Farbe ändern?", "action": "False", "output": ""}
+{"input": "Benutze bitte die Farbe rot", "action": "True", "output": "#FF0000"}
+{"input": "Welche Farbe ist am schönsten?", "action": "False", "output": ""}
+{"input": "Ändere die Farbe auf dunkelgrün", "action": "True", "output": "#006400"}
+{"input": "Kannst du die Farbe auf #00ff00 ändern?", "action": "True", "output": "#00FF00"}
+{"input": "Ich mag die Farbe 0, 255, 0", "action": "True", "output": "#00FF00"}
+{"input": "Kannst du die Farbe auf gelb setzen?", "action": "True", "output": "#FFFF00"}
+{"input": "Was ist die Farbe für die Sonne?", "action": "False", "output": ""}
+{"input": "Farbe bitte auf 128, 0, 128", "action": "True", "output": "#800080"}
+{"input": "Kannst du mir die Farbe lila als Hex-Code nennen?", "action": "False", "output": ""}
+{"input": "Wie schreibt man die Farbe blau als RGB-Wert?", "action": "False", "output": ""}
+{"input": "Wie funktioniert das mit den RGB-Werten?", "action": "False", "output": ""}
+{"input": "Ändere die Farbe auf 0000FF bitte", "action": "True", "output": "#0000FF"}
+{"input": "Kannst du die Farbe auf orange ändern?", "action": "True", "output": "#FFA500"}
+{"input": "Welche Farbe ist am häufigsten?", "action": "False", "output": ""}
+{"input": "Kannst du bitte die Farbe auf dunkelblau ändern?", "action": "True", "output": "#000080"}
+{"input": "Wie sieht die Farbe #FF00FF im RGB-Format aus?", "action": "False", "output": ""}
+{"input": "Ich würde die Farbe gerne auf 255, 165, 0 ändern", "action": "True", "output": "#FFA500"}
+{"input": "Kannst du mir sagen, wie man die Farbe lila als Hex-Code schreibt?", "action": "False", "output": ""}
+{"input": "Wie lautet die RGB-Bezeichnung für die Farbe grün?", "action": "False", "output": ""}
+{"input": "Was ist der Unterschied zwischen RGB und Hex-Code?", "action": "False", "output": ""}
+{"input": "Ändere die Farbe auf FFFFFF bitte", "action": "True", "output": "#FFFFFF"}
+{"input": "Ich möchte die Farbe auf hellgrün ändern", "action": "True", "output": "#90EE90"}
+{"input": "Könntest du die Farbe bitte auf rot einstellen?", "action": "True", "output": "#FF0000"}
+{"input": "Was ist die schönste Farbe?", "action": "False", "output": ""}
+{"input": "Ändere die Farbe auf dunkelrot", "action": "True", "output": "#800000"}
+{"input": "Kannst du die Farbe auf #FFA500 ändern?", "action": "True", "output": "#FFA500"}
+{"input": "Ich mag die Farbe 255, 0, 0", "action": "True", "output": "#FF0000"}
+{"input": "Könntest du die Farbe auf blau setzen?", "action": "True", "output": "#0000FF"}
+{"input": "Was ist die Farbe des Himmels?", "action": "False", "output": ""}
+{"input": "Farbe bitte auf 0, 0, 255", "action": "True", "output": "#0000FF"}
+{"input": "Kannst du mir die Farbe grün als Hex-Code nennen?", "action": "False", "output": ""}
+{"input": "Wie schreibt man die Farbe rot als RGB-Wert?", "action": "False", "output": ""}
+{"input": "Was ist der Unterschied zwischen RGB und CMYK?", "action": "False", "output": ""}
+{"input": "Ändere die Farbe auf 000000 bitte", "action": "True", "output": "#000000"}
+{"input": "Kannst du die Farbe auf türkis ändern?", "action": "True", "output": "#40E0D0"}
+{"input": "Welche Farbe ist die Farbe des Meeres?", "action": "False", "output": ""}
+{"input": "Kannst du bitte die Farbe auf dunkelgrün ändern?", "action": "True", "output": "#006400"}
+{"input": "Wie sieht die Farbe #FF00FF im RGB-Format aus?", "action": "False", "output": ""}
+{"input": "Ich würde die Farbe gerne auf 0, 128, 0 ändern", "action": "True", "output": "#008000"}
+{"input": "Kannst du mir sagen, wie man die Farbe gelb als Hex-Code schreibt?", "action": "False", "output": ""}
+{"input": "Wie lautet die RGB-Bezeichnung für die Farbe lila?", "action": "False", "output": ""}
+{"input": "Was ist der Unterschied zwischen RGB und HSL?", "action": "False", "output": ""}
+{"input": "Ändere die Farbe auf 00FF00 bitte", "action": "True", "output": "#00FF00"}
+{"input": "Kannst du die Farbe auf lila ändern?", "action": "True", "output": "#800080"}
+{"input": "Welche Farbe ist die Farbe der Sonne?", "action": "False", "output": ""}
+{"input": "Kannst du bitte die Farbe auf dunkelblau ändern?", "action": "True", "output": "#000080"}
+{"input": "Wie sieht die Farbe #00FF00 im RGB-Format aus?", "action": "False", "output": ""}
+{"input": "Ich würde die Farbe gerne auf 255, 255, 0 ändern", "action": "True", "output": "#FFFF00"}
+{"input": "Kannst du mir sagen, wie man die Farbe grün als Hex-Code schreibt?", "action": "False", "output": ""}
+{"input": "Wie lautet die RGB-Bezeichnung für die Farbe orange?", "action": "False", "output": ""}
+{"input": "Was ist der Unterschied zwischen RGB und CMYK?", "action": "False", "output": ""}
+{"input": "Ändere die Farbe auf FFFFFF bitte", "action": "True", "output": "#FFFFFF"}
+{"input": "Ich möchte die Farbe auf hellgrün ändern", "action": "True", "output": "#90EE90"}
+{"input": "Könntest du die Farbe bitte auf rot einstellen?", "action": "True", "output": "#FF0000"}
+{"input": "Was ist die schönste Farbe?", "action": "False", "output": ""}
+{"input": "Ändere die Farbe auf dunkelrot", "action": "True", "output": "#800000"}
+{"input": "Kannst du die Farbe auf #FFA500 ändern?", "action": "True", "output": "#FFA500"}
+{"input": "Ich mag die Farbe 255, 0, 0", "action": "True", "output": "#FF0000"}
+{"input": "Könntest du die Farbe auf blau setzen?", "action": "True", "output": "#0000FF"}
+{"input": "Was ist die Farbe des Himmels?", "action": "False", "output": ""}
+{"input": "Farbe bitte auf 0, 0, 255", "action": "True", "output": "#0000FF"}
+{"input": "Kannst du mir die Farbe grün als Hex-Code nennen?", "action": "False", "output": ""}
+{"input": "Wie schreibt man die Farbe rot als RGB-Wert?", "action": "False", "output": ""}
+{"input": "Was ist der Unterschied zwischen RGB und CMYK?", "action": "False", "output": ""}
+{"input": "Ändere die Farbe auf 000000 bitte", "action": "True", "output": "#000000"}
+{"input": "Kannst du die Farbe auf türkis ändern?", "action": "True", "output": "#40E0D0"}
+{"input": "Welche Farbe ist die Farbe des Meeres?", "action": "False", "output": ""}
+{"input": "Kannst du bitte die Farbe auf dunkelgrün ändern?", "action": "True", "output": "#006400"}
+{"input": "Wie sieht die Farbe #FF0000 im RGB-Format aus?", "action": "False", "output": ""}
+{"input": "Ich würde die Farbe gerne auf 0, 128, 0 ändern", "action": "True", "output": "#008000"}
+{"input": "Kannst du mir sagen, wie man die Farbe gelb als Hex-Code schreibt?", "action": "False", "output": ""}
+{"input": "Wie lautet die RGB-Bezeichnung für die Farbe lila?", "action": "False", "output": ""}
+{"input": "Was ist der Unterschied zwischen RGB und HSL?", "action": "False", "output": ""}
+{"input": "Ändere die Farbe auf 00FF00 bitte", "action": "True", "output": "#00FF00"}
+{"input": "Kannst du die Farbe auf blau ändern?", "action": "True", "output": "#0000FF"}
+{"input": "Welche Farbe ist die Farbe des Himmels?", "action": "False", "output": ""}
+{"input": "Kannst du bitte die Farbe auf dunkelblau ändern?", "action": "True", "output": "#000080"}
+{"input": "Wie sieht die Farbe #00FF00 im RGB-Format aus?", "action": "False", "output": ""}
+{"input": "Ich würde die Farbe gerne auf 255, 255, 0 ändern", "action": "True", "output": "#FFFF00"}
+{"input": "Kannst du mir sagen, wie man die Farbe grün als Hex-Code schreibt?", "action": "False", "output": ""}
+{"input": "Wie lautet die RGB-Bezeichnung für die Farbe orange?", "action": "False", "output": ""}
+{"input": "Was ist der Unterschied zwischen RGB und CMYK?", "action": "False", "output": ""}
+{"input": "Ändere die Farbe auf FFFFFF bitte", "action": "True", "output": "#FFFFFF"}
+{"input": "Ich möchte die Farbe auf hellgrün ändern", "action": "True", "output": "#90EE90"}
+{"input": "Könntest du die Farbe bitte auf rot einstellen?", "action": "True", "output": "#FF0000"}
+{"input": "Was ist die schönste Farbe?", "action": "False", "output": ""}
+{"input": "Ändere die Farbe auf dunkelrot", "action": "True", "output": "#800000"}
+{"input": "Kannst du die Farbe auf #FFA500 ändern?", "action": "True", "output": "#FFA500"}
+{"input": "Ich mag die Farbe 255, 0, 0", "action": "True", "output": "#FF0000"}
+{"input": "Könntest du die Farbe auf blau setzen?", "action": "True", "output": "#0000FF"}
+{"input": "Was ist die Farbe des Himmels?", "action": "False", "output": ""}
+{"input": "Farbe bitte auf 0, 0, 255", "action": "True", "output": "#0000FF"}
+{"input": "Kannst du mir die Farbe grün als Hex-Code nennen?", "action": "False", "output": ""}
+{"input": "Wie schreibt man die Farbe rot als RGB-Wert?", "action": "False", "output": ""}
+{"input": "Was ist der Unterschied zwischen RGB und CMYK?", "action": "False", "output": ""}
+{"input": "Ändere die Farbe auf 000000 bitte", "action": "True", "output": "#000000"}
+{"input": "Kannst du die Farbe auf türkis ändern?", "action": "True", "output": "#40E0D0"}
+{"input": "Welche Farbe ist die Farbe des Meeres?", "action": "False", "output": ""}
+{"input": "Kannst du bitte die Farbe auf dunkelgrün ändern?", "action": "True", "output": "#006400"}
+{"input": "Wie sieht die Farbe #FF0000 im RGB-Format aus?", "action": "False", "output": ""}
+{"input": "Ich würde die Farbe gerne auf 0, 128, 0 ändern", "action": "True", "output": "#008000"}
+{"input": "Kannst du mir sagen, wie man die Farbe gelb als Hex-Code schreibt?", "action": "False", "output": ""}
+{"input": "Wie lautet die RGB-Bezeichnung für die Farbe lila?", "action": "False", "output": ""}
+{"input": "Was ist der Unterschied zwischen RGB und HSL?", "action": "False", "output": ""}
+{"input": "Ändere die Farbe auf 00FF00 bitte", "action": "True", "output": "#00FF00"}
+{"input": "Ich möchte die Farbe ändern in blau bitte", "action": "True", "output": "#0000FF"}
+{"input": "Kannst du bitte die Farbe grün benutzen?", "action": "True", "output": "#00FF00"}
+{"input": "Wieso ist die Farbe blau?", "action": "False", "output": ""}
+{"input": "Kann ich die Farbe ändern?", "action": "False", "output": ""}
+{"input": "Ändere die Farbe zu orange", "action": "True", "output": "#FFA500"}
+{"input": "Was ist der Unterschied zwischen rot und orange?", "action": "False", "output": ""}
+{"input": "Welche Farben gehören zum Regenbogen?", "action": "False", "output": ""}
+{"input": "Mach die Farbe lila", "action": "True", "output": "#800080"}
+{"input": "Ändere die Farbe zu #ff0000", "action": "True", "output": "#FF0000"}
+{"input": "Farbe bitte zu 252,0,121", "action": "True", "output": "#FC0079"}
+{"input": "Kannst du mir sagen, welche Farbe grün als Hex-Wert hat?", "action": "False", "output": ""}
+{"input": "Wie lautet die rgb Bezeichnung für rot?", "action": "False", "output": ""}
+{"input": "Wie wird der rgb-Wert einer Farbe zusammengesetzt?", "action": "False", "output": ""}
+{"input": "Farbe zu 049249 ändern", "action": "True", "output": "#049249"}
+{"input": "Mach die Farbe hellblau", "action": "True", "output": "#ADD8E6"}
+{"input": "Kannst du die Farbe auf pink einstellen?", "action": "True", "output": "#FFC0CB"}
+{"input": "Wie kann man die Farbe ändern?", "action": "False", "output": ""}
+{"input": "Benutze bitte die Farbe rot", "action": "True", "output": "#FF0000"}
+{"input": "Welche Farbe ist am schönsten?", "action": "False", "output": ""}
+{"input": "Ändere die Farbe auf dunkelgrün", "action": "True", "output": "#006400"}
+{"input": "Kannst du die Farbe auf #00ff00 ändern?", "action": "True", "output": "#00FF00"}
+{"input": "Ich mag die Farbe 0, 255, 0", "action": "True", "output": "#00FF00"}
+{"input": "Kannst du die Farbe auf gelb setzen?", "action": "True", "output": "#FFFF00"}
+{"input": "Was ist die Farbe für die Sonne?", "action": "False", "output": ""}
+{"input": "Farbe bitte auf 128, 0, 128", "action": "True", "output": "#800080"}
+{"input": "Kannst du mir die Farbe lila als Hex-Code nennen?", "action": "False", "output": ""}
+{"input": "Wie schreibt man die Farbe blau als RGB-Wert?", "action": "False", "output": ""}
+{"input": "Wie funktioniert das mit den RGB-Werten?", "action": "False", "output": ""}
+{"input": "Ändere die Farbe auf 0000FF bitte", "action": "True", "output": "#0000FF"}
+{"input": "Kannst du die Farbe auf orange ändern?", "action": "True", "output": "#FFA500"}
+{"input": "Welche Farbe ist am häufigsten?", "action": "False", "output": ""}
+{"input": "Kannst du bitte die Farbe auf dunkelblau ändern?", "action": "True", "output": "#000080"}
+{"input": "Wie sieht die Farbe #FF00FF im RGB-Format aus?", "action": "False", "output": ""}
+{"input": "Ich würde die Farbe gerne auf 255, 165, 0 ändern", "action": "True", "output": "#FFA500"}
+{"input": "Kannst du mir sagen, wie man die Farbe lila als Hex-Code schreibt?", "action": "False", "output": ""}
+{"input": "Wie lautet die RGB-Bezeichnung für die Farbe grün?", "action": "False", "output": ""}
+{"input": "Was ist der Unterschied zwischen RGB und Hex-Code?", "action": "False", "output": ""}
+{"input": "Ändere die Farbe auf FFFFFF bitte", "action": "True", "output": "#FFFFFF"}
+{"input": "Ich möchte die Farbe auf hellgrün ändern", "action": "True", "output": "#90EE90"}
+{"input": "Könntest du die Farbe bitte auf rot einstellen?", "action": "True", "output": "#FF0000"}
+{"input": "Was ist die schönste Farbe?", "action": "False", "output": ""}
+{"input": "Ändere die Farbe auf dunkelrot", "action": "True", "output": "#800000"}
+{"input": "Kannst du die Farbe auf #FFA500 ändern?", "action": "True", "output": "#FFA500"}
+{"input": "Ich mag die Farbe 255, 0, 0", "action": "True", "output": "#FF0000"}
+{"input": "Könntest du die Farbe auf blau setzen?", "action": "True", "output": "#0000FF"}
+{"input": "Was ist die Farbe des Himmels?", "action": "False", "output": ""}
+{"input": "Farbe bitte auf 0, 0, 255", "action": "True", "output": "#0000FF"}
+{"input": "Kannst du mir die Farbe grün als Hex-Code nennen?", "action": "False", "output": ""}
+{"input": "Wie schreibt man die Farbe rot als RGB-Wert?", "action": "False", "output": ""}
+{"input": "Was ist der Unterschied zwischen RGB und CMYK?", "action": "False", "output": ""}
+{"input": "Ändere die Farbe auf 000000 bitte", "action": "True", "output": "#000000"}
+{"input": "Kannst du die Farbe auf türkis ändern?", "action": "True", "output": "#40E0D0"}
+{"input": "Welche Farbe ist die Farbe des Meeres?", "action": "False", "output": ""}
+{"input": "Kannst du bitte die Farbe auf dunkelgrün ändern?", "action": "True", "output": "#006400"}
+{"input": "Wie sieht die Farbe #FF00FF im RGB-Format aus?", "action": "False", "output": ""}
+{"input": "Ich würde die Farbe gerne auf 0, 128, 0 ändern", "action": "True", "output": "#008000"}
+{"input": "Kannst du mir sagen, wie man die Farbe gelb als Hex-Code schreibt?", "action": "False", "output": ""}
+{"input": "Wie lautet die RGB-Bezeichnung für die Farbe lila?", "action": "False", "output": ""}
+{"input": "Was ist der Unterschied zwischen RGB und HSL?", "action": "False", "output": ""}
+{"input": "Ändere die Farbe auf 00FF00 bitte", "action": "True", "output": "#00FF00"}
+{"input": "Kannst du die Farbe auf lila ändern?", "action": "True", "output": "#800080"}
+{"input": "Welche Farbe ist die Farbe der Sonne?", "action": "False", "output": ""}
+{"input": "Kannst du bitte die Farbe auf dunkelblau ändern?", "action": "True", "output": "#000080"}
+{"input": "Wie sieht die Farbe #00FF00 im RGB-Format aus?", "action": "False", "output": ""}
+{"input": "Ich würde die Farbe gerne auf 255, 255, 0 ändern", "action": "True", "output": "#FFFF00"}
+{"input": "Kannst du mir sagen, wie man die Farbe grün als Hex-Code schreibt?", "action": "False", "output": ""}
+{"input": "Wie lautet die RGB-Bezeichnung für die Farbe orange?", "action": "False", "output": ""}
+{"input": "Was ist der Unterschied zwischen RGB und CMYK?", "action": "False", "output": ""}
+{"input": "Ändere die Farbe auf FFFFFF bitte", "action": "True", "output": "#FFFFFF"}
+{"input": "Ich möchte die Farbe auf hellgrün ändern", "action": "True", "output": "#90EE90"}
+{"input": "Könntest du die Farbe bitte auf rot einstellen?", "action": "True", "output": "#FF0000"}
+{"input": "Was ist die schönste Farbe?", "action": "False", "output": ""}
+{"input": "Ändere die Farbe auf dunkelrot", "action": "True", "output": "#800000"}
+{"input": "Kannst du die Farbe auf #FFA500 ändern?", "action": "True", "output": "#FFA500"}
+{"input": "Ich mag die Farbe 255, 0, 0", "action": "True", "output": "#FF0000"}
+{"input": "Könntest du die Farbe auf blau setzen?", "action": "True", "output": "#0000FF"}
+{"input": "Was ist die Farbe des Himmels?", "action": "False", "output": ""}
+{"input": "Farbe bitte auf 0, 0, 255", "action": "True", "output": "#0000FF"}
+{"input": "Kannst du mir die Farbe grün als Hex-Code nennen?", "action": "False", "output": ""}
+{"input": "Wie schreibt man die Farbe rot als RGB-Wert?", "action": "False", "output": ""}
+{"input": "Was ist der Unterschied zwischen RGB und CMYK?", "action": "False", "output": ""}
+{"input": "Ändere die Farbe auf 000000 bitte", "action": "True", "output": "#000000"}
+{"input": "Kannst du die Farbe auf türkis ändern?", "action": "True", "output": "#40E0D0"}
+{"input": "Welche Farbe ist die Farbe des Meeres?", "action": "False", "output": ""}
+{"input": "Kannst du bitte die Farbe auf dunkelgrün ändern?", "action": "True", "output": "#006400"}
+{"input": "Wie sieht die Farbe #FF0000 im RGB-Format aus?", "action": "False", "output": ""}
+{"input": "Ich würde die Farbe gerne auf 0, 128, 0 ändern", "action": "True", "output": "#008000"}
+{"input": "Kannst du mir sagen, wie man die Farbe gelb als Hex-Code schreibt?", "action": "False", "output": ""}
+{"input": "Wie lautet die RGB-Bezeichnung für die Farbe lila?", "action": "False", "output": ""}
+{"input": "Was ist der Unterschied zwischen RGB und HSL?", "action": "False", "output": ""}
+{"input": "Ändere die Farbe auf 00FF00 bitte", "action": "True", "output": "#00FF00"}
+{"input": "Kannst du die Farbe auf hellrot ändern?", "action": "True", "output": "#FF7F50"}
+{"input": "Welche Farbe ist die Farbe der Erdbeere?", "action": "False", "output": ""}
+{"input": "Kannst du bitte die Farbe auf dunkelblau ändern?", "action": "True", "output": "#000080"}
+{"input": "Wie sieht die Farbe #0000FF im RGB-Format aus?", "action": "False", "output": ""}
+{"input": "Ich würde die Farbe gerne auf 255, 127, 80 ändern", "action": "True", "output": "#FF7F50"}
+{"input": "Kannst du mir sagen, wie man die Farbe blau als Hex-Code schreibt?", "action": "False", "output": ""}
+{"input": "Wie lautet die RGB-Bezeichnung für die Farbe orange?", "action": "False", "output": ""}
+{"input": "Was ist der Unterschied zwischen RGB und CMYK?", "action": "False", "output": ""}
+{"input": "Ändere die Farbe auf FFFFFF bitte", "action": "True", "output": "#FFFFFF"}
+{"input": "Ich möchte die Farbe auf hellgrün ändern", "action": "True", "output": "#90EE90"}
+{"input": "Könntest du die Farbe bitte auf rot einstellen?", "action": "True", "output": "#FF0000"}
+{"input": "Was ist die schönste Farbe?", "action": "False", "output": ""}
+{"input": "Ändere die Farbe auf dunkelrot", "action": "True", "output": "#800000"}
+{"input": "Kannst du die Farbe auf #FFA500 ändern?", "action": "True", "output": "#FFA500"}
+{"input": "Ich mag die Farbe 255, 0, 0", "action": "True", "output": "#FF0000"}
+{"input": "Könntest du die Farbe auf blau setzen?", "action": "True", "output": "#0000FF"}
+{"input": "Was ist die Farbe des Himmels?", "action": "False", "output": ""}
+{"input": "Farbe bitte auf 0, 0, 255", "action": "True", "output": "#0000FF"}
+{"input": "Kannst du mir die Farbe grün als Hex-Code nennen?", "action": "False", "output": ""}
+{"input": "Wie schreibt man die Farbe rot als RGB-Wert?", "action": "False", "output": ""}
+{"input": "Was ist der Unterschied zwischen RGB und CMYK?", "action": "False", "output": ""}
+{"input": "Ändere die Farbe auf 000000 bitte", "action": "True", "output": "#000000"}
+{"input": "Kannst du die Farbe auf türkis ändern?", "action": "True", "output": "#40E0D0"}
+{"input": "Welche Farbe ist die Farbe des Meeres?", "action": "False", "output": ""}
+{"input": "Kannst du bitte die Farbe auf dunkelgrün ändern?", "action": "True", "output": "#006400"}
+{"input": "Wie sieht die Farbe #FF0000 im RGB-Format aus?", "action": "False", "output": ""}
+{"input": "Ich würde die Farbe gerne auf 0, 128, 0 ändern", "action": "True", "output": "#008000"}
+{"input": "Kannst du mir sagen, wie man die Farbe gelb als Hex-Code schreibt?", "action": "False", "output": ""}
+{"input": "Wie lautet die RGB-Bezeichnung für die Farbe lila?", "action": "False", "output": ""}
+{"input": "Was ist der Unterschied zwischen RGB und HSL?", "action": "False", "output": ""}
+{"input": "Ändere die Farbe auf 00FF00 bitte", "action": "True", "output": "#00FF00"}
+{"input": "Kannst du die Farbe auf lila ändern?", "action": "True", "output": "#800080"}
+{"input": "Welche Farbe ist die Farbe der Sonne?", "action": "False", "output": ""}
+{"input": "Kannst du bitte die Farbe auf dunkelblau ändern?", "action": "True", "output": "#000080"}
+{"input": "Wie sieht die Farbe #00FF00 im RGB-Format aus?", "action": "False", "output": ""}
+{"input": "Ich würde die Farbe gerne auf 255, 255, 0 ändern", "action": "True", "output": "#FFFF00"}
+{"input": "Kannst du mir sagen, wie man die Farbe grün als Hex-Code schreibt?", "action": "False", "output": ""}
+{"input": "Wie lautet die RGB-Bezeichnung für die Farbe orange?", "action": "False", "output": ""}
+{"input": "Was ist der Unterschied zwischen RGB und CMYK?", "action": "False", "output": ""}
+{"input": "Ändere die Farbe auf FFFFFF bitte", "action": "True", "output": "#FFFFFF"}
+{"input": "Ich möchte die Farbe auf hellgrün ändern", "action": "True", "output": "#90EE90"}
+{"input": "Könntest du die Farbe bitte auf rot einstellen?", "action": "True", "output": "#FF0000"}
+{"input": "Was ist die schönste Farbe?", "action": "False", "output": ""}
+{"input": "Ändere die Farbe auf dunkelrot", "action": "True", "output": "#800000"}
+{"input": "Kannst du die Farbe auf #FFA500 ändern?", "action": "True", "output": "#FFA500"}
+{"input": "Ich mag die Farbe 255, 0, 0", "action": "True", "output": "#FF0000"}
+{"input": "Könntest du die Farbe auf blau setzen?", "action": "True", "output": "#0000FF"}
+{"input": "Was ist die Farbe des Himmels?", "action": "False", "output": ""}
+{"input": "Farbe bitte auf 0, 0, 255", "action": "True", "output": "#0000FF"}
+{"input": "Kannst du mir die Farbe grün als Hex-Code nennen?", "action": "False", "output": ""}
+{"input": "Wie schreibt man die Farbe rot als RGB-Wert?", "action": "False", "output": ""}
+{"input": "Was ist der Unterschied zwischen RGB und CMYK?", "action": "False", "output": ""}
+{"input": "Ändere die Farbe auf 000000 bitte", "action": "True", "output": "#000000"}
+{"input": "Kannst du die Farbe auf türkis ändern?", "action": "True", "output": "#40E0D0"}
+{"input": "Welche Farbe ist die Farbe des Meeres?", "action": "False", "output": ""}
+{"input": "Kannst du bitte die Farbe auf dunkelgrün ändern?", "action": "True", "output": "#006400"}
+{"input": "Wie sieht die Farbe #FF0000 im RGB-Format aus?", "action": "False", "output": ""}
+{"input": "Ich würde die Farbe gerne auf 0, 128, 0 ändern", "action": "True", "output": "#008000"}
+{"input": "Kannst du mir sagen, wie man die Farbe gelb als Hex-Code schreibt?", "action": "False", "output": ""}
+{"input": "Wie lautet die RGB-Bezeichnung für die Farbe lila?", "action": "False", "output": ""}
+{"input": "Was ist der Unterschied zwischen RGB und HSL?", "action": "False", "output": ""}
+{"input": "Ändere die Farbe auf 00FF00 bitte", "action": "True", "output": "#00FF00"}
+{"input": "Wie lang ist die chinesische Mauer?", "action": "False", "output": ""}
+{"input": "Was ist die chemische Formel von Wasser?", "action": "False", "output": ""}
+{"input": "Was ist die Hauptstadt von Deutschland?", "action": "False", "output": ""}
+{"input": "Wie lange dauert ein Fußballspiel?", "action": "False", "output": ""}
+{"input": "Wie groß ist ein Basketballfeld?", "action": "False", "output": ""}
+{"input": "Welche Spritarten gibt es?", "action": "False", "output": ""}
+{"input": "Der Himmel wechselt die Farbe zu blau", "action": "False", "output": ""}
+{"input": "Mach die Farbe nicht blau", "action": "False", "output": ""}

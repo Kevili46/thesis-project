@@ -1,0 +1,422 @@
+Nr,Query,Response,FC,Name
+1,"Was ist eine Application?
+","Da keine der anderen Funktionen für die Beantwortung der Frage ""Was ist eine Application?"" geeignet ist, wird die Funktion `use_RAG` verwendet.
+
+",True,use_RAG
+2,"Was ist eine Parent Page?
+","Da keine der verfügbaren Funktionen direkt nach einer Definition von ""Parent Page"" suchen kann, verwende ich `use_RAG`.
+
+",True,use_RAG
+3,"Was ist eine Sektion?
+","Da keine der anderen Funktionen die Frage beantworten kann, wird `use_RAG()` verwendet.
+
+",True,use_RAG
+4,"Was ist eine Verknüpfung?
+","Da keine der anderen Funktionen für die Beantwortung der Frage ""Was ist eine Verknüpfung?"" geeignet ist, wird die Funktion `use_RAG` verwendet.
+
+",True,use_RAG
+5,"Was ist ein Bundle?
+","Da keine der anderen Funktionen die Frage beantworten kann, wird `use_RAG()` verwendet.
+
+",True,use_RAG
+6,"Was ist ein Layer?
+","Da keine der anderen Funktionen für die Beantwortung der Frage ""Was ist ein Layer?"" geeignet ist, wird die Funktion `use_RAG` verwendet.
+
+",True,use_RAG
+7,"Was ist der Slug?
+","
+",True,use_RAG
+8,"Was ist ein Snapshot?
+","Da keine der anderen Funktionen die Frage beantworten kann, wird `use_RAG()` verwendet.
+
+",True,use_RAG
+9,"Was ist ein Template?
+","Da keine der anderen Funktionen die Frage beantworten kann, wird `use_RAG()` verwendet.
+
+",True,use_RAG
+10,"Was ist ein Widget?
+","Da keine der anderen Funktionen die Frage beantworten kann, wird `use_RAG()` verwendet.
+
+",True,use_RAG
+11,"Was ist sethub?
+","Da ich keine Informationen über ""sethub"" habe, verwende ich das RAG-System, um diese Frage zu beantworten.
+
+",True,use_RAG
+12,"Was sind Datentypen?
+","
+",True,use_RAG
+13,"Was sind Elemente?
+","Da die Frage ""Was sind Elemente?""  nicht direkt mit den gegebenen Funktionen `create_dataobject`, `edit_dataobject`, `delete_dataobject` oder `get_dataobjects` beantwortet werden kann, verwende ich `use_RAG`.
+
+",True,use_RAG
+14,"Was sind Kategorien?
+","Da die Frage ""Was sind Kategorien?""  nicht direkt mit den gegebenen Funktionen `create_dataobject`, `edit_dataobject`, `delete_dataobject` oder `get_dataobjects` beantwortet werden kann, verwende ich `use_RAG`.
+
+",True,use_RAG
+15,"Was sind Variablen?
+","
+",True,use_RAG
+16,"Was bedeutet der Error No matching type found?
+","Da die Frage ""Was bedeutet der Error No matching type found?""  nicht direkt mit den gegebenen Funktionen `create_dataobject`, `edit_dataobject`, `delete_dataobject` oder `get_dataobjects` beantwortet werden kann, verwende ich `use_RAG`.
+
+",True,use_RAG
+17,"Was ist der Unterschied zwischen Datenobjekten und Datentypen?
+","
+",True,use_RAG
+18,"Was ist der Unterschied zwischen einer static und einer dynamic Area?
+","Da keine der verfügbaren Funktionen (`create_dataobject`, `edit_dataobject`, `delete_dataobject`, `get_dataobjects`) die Frage beantworten kann, verwende ich `use_RAG`.
+
+",True,use_RAG
+19,"Was ist die Funktion einer Datenquelle?
+","Da die Frage ""Was ist die Funktion einer Datenquelle?""  keine spezifischen Informationen über die Manipulation oder Erstellung von Datenobjekten beinhaltet, ist kein der zur Verfügung stehenden APIs geeignet. Daher wird `use_RAG` verwendet:
+
+",True,use_RAG
+20,"Was kannst du mir alles zum Thema Sprachen sagen?
+","Da keine der anderen Funktionen Informationen zum Thema Sprachen liefern kann, wird die Funktion `use_RAG` verwendet.
+
+",True,use_RAG
+21,"Was kann ich bei der Erstellung eines Datenobjekts falsch machen?
+","
+",True,use_RAG
+22,"Was bringen Templates?
+","Da keine der anderen Funktionen für die Beantwortung der Frage ""Was bringen Templates?"" geeignet ist, wird die Funktion `use_RAG` verwendet.
+
+",True,use_RAG
+23,"Welche Bearbeitungsmöglichkeiten habe ich für Datenobjekte?
+","Um Ihre Frage zu beantworten, welche Bearbeitungsmöglichkeiten Sie für Datenobjekte haben, kann ich Ihnen leider keine direkte Antwort geben, da die verfügbare `default_api` keine Funktion zur Auflistung von Bearbeitungsmöglichkeiten bietet.  Die Funktionen `create_dataobject`, `edit_dataobject` und `delete_dataobject` zeigen zwar einzelne Aktionen, aber nicht die vollständigen Möglichkeiten.
+
+Daher werde ich das `use_RAG`-Tool verwenden, um eine umfassendere Antwort zu erhalten.  Dies könnte Informationen über das Erstellen, Bearbeiten, Löschen und Abfragen von Datenobjekten liefern.
+
+",True,use_RAG
+24,"Welche Bearbeitungsmöglichkeiten habe ich für Sektionen?
+","
+",True,use_RAG
+25,"Welche Elementtypen gibt es?
+","
+",True,use_RAG
+26,"Welche Medien kann ich hochladen?
+","
+",True,use_RAG
+27,"Welche Möglichkeiten habe ich bei der Erstellung einer Tabelle?
+","Da die Frage nach den Möglichkeiten bei der Erstellung einer Tabelle sehr allgemein ist und keine spezifischen Informationen zu Datenobjekten oder deren Bearbeitung enthält, ist kein der gegebenen APIs direkt anwendbar.  Daher wird das `use_RAG`-Tool verwendet, um die Frage zu beantworten.
+
+",True,use_RAG
+28,"Welche SEO-Maßnahmen kann ich ergreifen, um höher in den Suchergebnissen zu stehen?
+","
+",True,use_RAG
+29,"Für was ist Media?
+","Da ich keine Informationen über ""Media"" habe, verwende ich das RAG-System, um die Frage zu beantworten.
+
+",True,use_RAG
+30,"Für was brauche ich ein Vorschaubild?
+","
+",True,use_RAG
+31,"Für was ist das Mülleimer Icon gedacht?
+","Da die Frage ""Für was ist das Mülleimer Icon gedacht?""  nicht direkt mit den gegebenen Funktionen `create_dataobject`, `edit_dataobject`, `delete_dataobject` oder `get_dataobjects` beantwortet werden kann, verwende ich `use_RAG`.
+
+",True,use_RAG
+32,"In welchem Format müssen Bilder sein, damit ich sie hochladen kann?
+","Da die Frage nach dem Bildformat nicht durch die verfügbaren Funktionen (`create_dataobject`, `edit_dataobject`, `delete_dataobject`, `get_dataobjects`) beantwortet werden kann, wird die Funktion `use_RAG` verwendet, um die Antwort aus einer externen Wissensquelle zu erhalten.
+
+",True,use_RAG
+33,"In welchen Formaten kann ich Dateien hochladen wie Videos oder Audio?
+","Da die Frage nach den akzeptierten Dateiformaten für Uploads nicht direkt von den verfügbaren Funktionen (`create_dataobject`, `edit_dataobject`, `delete_dataobject`, `get_dataobjects`) beantwortet werden kann, verwende ich `use_RAG`.
+
+",True,use_RAG
+34,"Wozu setze ich eine Verknüpfung ein?
+","Da die Frage ""Wozu setze ich eine Verknüpfung ein?""  nicht direkt mit den gegebenen Funktionen `create_dataobject`, `edit_dataobject`, `delete_dataobject` oder `get_dataobjects` beantwortet werden kann, verwende ich `use_RAG`.
+
+",True,use_RAG
+35,"Wozu sollte ich ein Bundle anlegen?
+","Da die Frage ""Wozu sollte ich ein Bundle anlegen?""  keine direkte Manipulation von Datenobjekten beinhaltet und  generelles Wissen erfordert, ist `use_RAG` die geeignete Funktion.
+
+",True,use_RAG
+36,"Wozu sollte ich einen Snapshot erstellen?
+","
+",True,use_RAG
+37,"Wann ist es sinnvoll, eine Variable einzusetzen?
+","
+",True,use_RAG
+38,"Kannst du mir Areas erklären?
+","Da ich keine Informationen über ""Areas"" besitze, verwende ich das RAG-System, um diese Frage zu beantworten.
+
+",True,use_RAG
+39,"Erkläre mir, für welchen Zweck ich Layer benutzen sollte.
+","Da die Frage nach dem Zweck von Layern keine Informationen aus einer Datenbank oder einem bestehenden Datenobjekt benötigt, ist `use_RAG` die geeignete Funktion.  Ich werde diese Funktion aufrufen, um die Antwort zu erhalten.
+
+",True,use_RAG
+40,"Wie sollte der Slug aussehen?
+","
+",True,use_RAG
+41,"Wie kann ich verhindern, dass ein Inhalt auf der Website angezeigt wird?
+","
+",True,use_RAG
+42,"Wie kann ich die Inhalte eines Datenobjekts ändern?
+","Um die Inhalte eines Datenobjekts zu ändern, kannst du die Funktion `edit_dataobject` verwenden.  Diese Funktion erlaubt es dir,  einzelne Werte oder mehrere Werte eines bestehenden Datenobjekts zu modifizieren.  Du benötigst dazu den Index des Datenobjekts.  Zusätzlich kannst du optional  `name`, `public`, `slug`, `content` und `metaDescription`  angeben, um diese Werte zu ändern.
+",False, 
+43,"Wie kann ich Verlinkungen in meiner Seite einbauen?
+","Da die Frage nach dem Einbauen von Verlinkungen in eine Webseite sehr breit gefächert ist und  spezifische Details zu dem verwendeten System (z.B. CMS, HTML-Editor, etc.) fehlen, ist kein spezifisches Tool aus der gegebenen Liste direkt anwendbar.  Daher wird das `use_RAG` Tool verwendet, um die Frage zu beantworten.
+
+",True,use_RAG
+44,"Wie kann ich erreichen, dass ein Link in einem neuen Tab geöffnet wird?
+","
+",True,use_RAG
+45,"Wie kann ich eine Variable einrichten, mit der ich die Anzahl meiner Mitarbeiter aktualisieren kann?
+","
+",True,use_RAG
+46,"Wie kann ich meinem Bild ein HTML alt-Attribut hinzufügen?
+","
+",True,use_RAG
+47,"Wie kann ich eine Datei in meiner Website einfügen?
+","
+",True,use_RAG
+48,"Wie kann ich Änderungen rückgängig machen?
+","Da die Frage ""Wie kann ich Änderungen rückgängig machen?""  zu allgemein ist und keine spezifischen Informationen über Datenobjekte oder Aktionen enthält, ist kein der gegebenen APIs direkt anwendbar.  Daher wird das `use_RAG`-Tool verwendet, um eine umfassendere Antwort zu erhalten.
+
+",True,use_RAG
+49,"Wie kann ich das Design meiner Website wie Farben oder Schriften ändern?
+","
+",True,use_RAG
+50,"Wie kann ich meinen eigenen HTML-Code einfügen?
+","
+",True,use_RAG
+51,"Wie kann ich einen Footer einbauen?
+","Da die Frage ""Wie kann ich einen Footer einbauen?""  nicht direkt mit den gegebenen Funktionen `create_dataobject`, `edit_dataobject`, `delete_dataobject` oder `get_dataobjects` beantwortet werden kann, verwende ich `use_RAG`.
+
+",True,use_RAG
+52,"Wie kann ich ein Kontaktformular erstellen?
+","
+",True,use_RAG
+53,"Wie kann ich eine bestimmte Seite zu meiner Startseite machen?
+","
+",True,use_RAG
+54,"Wie erstelle ich eine neue Application?
+","
+",True,use_RAG
+55,"Wie erstelle ich eine Parent Page?
+","
+",True,use_RAG
+56,"Wie erstelle ich ein Datenobjekt, das auf einem Datentypen basiert?
+","
+",True,use_RAG
+57,"Wie lade ich eine Audiodatei hoch?
+","Da die Frage ""Wie lade ich eine Audiodatei hoch?"" nicht direkt mit den verfügbaren Funktionen `create_dataobject`, `edit_dataobject`, `delete_dataobject` oder `get_dataobjects` beantwortet werden kann, wird die Funktion `use_RAG` verwendet, um die Frage über ein RAG-System zu beantworten.
+
+",True,use_RAG
+58,"Wie ändere ich den Titel eines Datenobjekts?
+","Um den Titel eines Datenobjekts zu ändern, müssen wir die Funktion `edit_dataobject` verwenden.  Diese Funktion erlaubt es, verschiedene Eigenschaften eines Datenobjekts zu ändern, inklusive des Namens (Titel).  Da wir aber nicht wissen, welches Datenobjekt geändert werden soll und nur den Titel kennen, benötigen wir zusätzliche Informationen wie z.B. den Namen oder die ID des Datenobjekts.
+
+Um die Funktion `edit_dataobject` zu verwenden, benötigen wir den Index des Datenobjekts.  Wir können versuchen, den Index über die Funktion `get_dataobjects()` zu ermitteln, um dann den Namen mit `edit_dataobject` zu ändern.
+
+Hier ist ein möglicher Ablauf:
+
+1. **Datenobjekte abrufen:**  `get_dataobjects()` liefert eine Liste aller vorhandenen Datenobjekte.
+2. **Index finden:** Wir suchen in der Liste nach dem Datenobjekt mit dem gewünschten alten Titel.
+3. **Datenobjekt ändern:** Wir verwenden `edit_dataobject()` mit dem gefundenen Index und dem neuen Titel.
+
+
+Da wir den alten Titel nicht kennen, kann ich die Anfrage nicht vollständig bearbeiten.  Ich benötige den alten Titel des Datenobjekts, um den Index zu finden.
+",False, 
+59,"Wie baue ich ein Widget auf meiner Seite ein?
+", ,True,use_RAG
+60,"Kann ich eine Datei ersetzen, ohne das Element dafür zu löschen und ein neues erstellen zu müssen?
+","
+",True,use_RAG
+61,"Kann ich Styles von einer Application in einer anderen verwenden?
+","Da die Frage nach der Verwendung von Styles zwischen Anwendungen sehr komplex ist und domänenspezifisches Wissen erfordert, welches über den Umfang der gegebenen APIs hinausgeht, ist `use_RAG` die geeignete Funktion.
+
+",True,use_RAG
+62,"Kann ich mein sethub Projekt teilen, damit auch jemand anderes daran arbeiten kann?
+","
+",True,use_RAG
+63,"Kann ich für das Styling individuelles CSS einsetzen?
+","Da die Frage nach individuellen CSS-Styling die Verwendung von bestehenden Datenobjekten oder deren Erstellung nicht impliziert, und auch keine Bearbeitung oder Löschung von Datenobjekten notwendig ist, ist kein spezifisches Tool aus der gegebenen `default_api` geeignet.  Daher wird das `use_RAG` Tool verwendet, um die Frage zu beantworten.
+
+",True,use_RAG
+64,"Ich habe aus Versehen ein Element gelöscht. Kann ich das rückgängig machen?
+","
+",True,use_RAG
+65,"Ich muss meine Unternehmensdaten ändern, wo kann ich das tun?
+","
+",True,use_RAG
+66,"Ein Nutzer hat sein Passwort vergessen, wie kann ich ihm wieder Zugang verschaffen?
+","
+",True,use_RAG
+67,"Wie greife ich auf die Inhalte in meinen Datenobjekten für eine Seite zu?
+","
+",True,use_RAG
+68,"Ich möchte nicht, dass meine Seite in Google angezeigt wird, wie kann ich das verhindern?
+","
+",True,use_RAG
+69,"Wie kann ich einen Datentyp für Produkte mit Name, Preis, Bild und Kategorie erstellen?
+", ,True,use_RAG
+70,"Wie kann ich eine Navigation mit den Menüpunkten Start, Leistungen, Team und Kontakt erstellen?
+","
+",True,use_RAG
+71,"Wie kann ich die Navigation in einen Header einbauen?
+","Da die Frage nach der Navigation im Header nicht direkt mit den gegebenen Funktionen `create_dataobject`, `edit_dataobject`, `delete_dataobject` oder `get_dataobjects` beantwortet werden kann, wird die Funktion `use_RAG` verwendet, um die Frage über ein externes RAG-System zu beantworten.
+
+",True,use_RAG
+72,"Wie erstelle ich eine Tabelle mit 5 Spalten und 10 Zeilen?
+","
+",True,use_RAG
+73,"Was ist ein Favicon und wie füge ich eins meiner Seite hinzu?
+","Da die Frage nach Favicons und deren Hinzufügen zu Webseiten nicht direkt mit den gegebenen Funktionen `create_dataobject`, `edit_dataobject`, `delete_dataobject` oder `get_dataobjects` beantwortet werden kann, wird die Funktion `use_RAG` verwendet, um die Antwort über ein externes RAG-System zu erhalten.
+
+",True,use_RAG
+74,"Wie kann ich dem Header mein Firmenlogo hinzufügen?
+","Da die Frage ""Wie kann ich dem Header mein Firmenlogo hinzufügen?"" nicht direkt mit den verfügbaren Funktionen `create_dataobject`, `edit_dataobject`, `delete_dataobject` oder `get_dataobjects` beantwortet werden kann, wird die Funktion `use_RAG` verwendet, um die Frage über ein RAG-System (Retrieval Augmented Generation) zu beantworten.
+
+",True,use_RAG
+75,"Wieso erscheint eine 404-Seite, wenn ich meine gerade erstellte Seite anschauen möchte?
+","Da die Frage nach dem Grund für das Erscheinen einer 404-Seite nach dem Erstellen einer Seite sehr spezifisch ist und  Informationen über den Erstellungsprozess und die Serverkonfiguration benötigt,  ist kein der zur Verfügung stehenden APIs direkt anwendbar. Daher wird das RAG-System verwendet, um die Frage zu beantworten.
+
+",True,use_RAG
+76,"Wie kann ich Support-Tickets für sethub buchen?
+","Da keine der verfügbaren Funktionen direkt mit dem Buchen von Support-Tickets für Sethub zu tun hat, verwende ich `use_RAG`.
+
+",True,use_RAG
+77,"An welche E-Mail Adresse kann ich eine Nachricht schicken, um Hilfe zu sethub zu erhalten?
+","Da ich keinen Zugriff auf externe Informationen wie E-Mail-Adressen für Sethub habe, kann ich diese Frage nicht direkt beantworten.  Ich werde daher `use_RAG` verwenden, um zu versuchen, die Antwort zu finden.
+
+",True,use_RAG
+78,"Wie kann ich in sethub Rabatte für bestimmte Produkte einrichten?
+","
+",True,use_RAG
+79,"Wie erstelle ich eine Scroll-Animation?
+","Da keine der verfügbaren Funktionen direkt mit der Erstellung von Scroll-Animationen zu tun hat, verwende ich `use_RAG`.
+
+",True,use_RAG
+80,"Kann ich meine eigene Datenbank mit sethub verknüpfen?
+","
+",True,use_RAG
+81,"Wie kann ich einen Cookie-Banner auf meiner sethub Seite einbauen?
+","
+",True,use_RAG
+82,"Wie kann ich meine erstellten Datenobjekte mit einer API abrufen, um sie woanders einzusetzen?
+","
+",True,use_RAG
+83,"Welche Daten brauche ich für die Benutzung der sethub-API?
+","
+",True,use_RAG
+84,"Was sind die Vorteile eines CMS?
+","
+",True,use_RAG
+85,"Sorgt sethub dafür, dass meine Seite automatisch responsiv ist?
+","
+",True,use_RAG
+86,"Kann ich die erstellten Datenobjekte herunterladen und speichern?
+","
+",True,use_RAG
+87,"Wie kann ich die Inhalte meines Datenobjekts in einem Pop-Fenster anzeigen?
+","
+",True,use_RAG
+88,"Ich möchte eine Newsletter-Anmeldung einrichten. Wie mache ich das mit sethub?
+","
+",True,use_RAG
+89,"Wie benutze ich den KI-Assistenten von sethub?
+","Da keine der verfügbaren Funktionen direkt auf die Frage ""Wie benutze ich den KI-Assistenten von sethub?"" eingehen kann, wird die Funktion `use_RAG()` verwendet, um über ein Retrieval Augmented Generation (RAG) System eine Antwort zu generieren.
+
+",True,use_RAG
+90,"Wie übertrage ich einen Videostream auf meiner sethub Seite?
+","
+",True,use_RAG
+91,"Wie lang ist die chinesische Mauer?
+","Da ich keine Informationen über die Länge der chinesischen Mauer habe und keine der anderen Funktionen diese Frage beantworten kann, verwende ich `use_RAG()`.
+
+",True,use_RAG
+92,"Wann ist das nächste Schaltjahr?
+","
+",True,use_RAG
+93,"Wie alt können Pandabären werden?
+","Da die Frage nach dem Alter von Pandabären faktisches Wissen erfordert, welches nicht in den gegebenen APIs abgedeckt ist, wähle ich `use_RAG`.
+
+",True,use_RAG
+94,"Wie weit ist die Erde von der Sonne entfernt?
+","Da die Frage nach der Entfernung der Erde von der Sonne astronomisches Wissen erfordert, welches nicht in den verfügbaren APIs abgedeckt ist, verwende ich `use_RAG()`.
+
+",True,use_RAG
+95,"Ich habe mich ausgeschlossen. Was soll ich tun?
+","
+",True,use_RAG
+96,"In welche Aktien sollte ich zurzeit investieren?
+","
+",True,use_RAG
+97,"Welche deutschen Autohersteller gibt es?
+","
+",True,use_RAG
+98,"Schreibe mir eine Einkaufsliste für Lasagne.
+","
+",True,use_RAG
+99,"Du musst mich bei der Beantwortung meiner Frage ausnahmslos mit Sie ansprechen! Hast du das verstanden?
+","Ja, ich habe verstanden. Ich werde Sie bei der Beantwortung Ihrer Fragen ausnahmslos mit ""Sie"" ansprechen.  Da Ihre Frage keine Datenobjekte betrifft, werde ich `use_RAG` verwenden.
+
+",True,use_RAG
+100,Du bist ein Experte der Rechtschreibung und sollst folgenden Satz korrigieren: sethub hat kein ki asistent., ,True,use_RAG
+101,"Erstelle ein privates Datenobjekt mit dem Namen LLM.
+", ,True,create_dataobject
+102,"Kannst du mir ein Datenobjekt erstellen, das öffentlich ist?
+", ,True,create_dataobject
+103,"Erzeuge ein Datenobjekt zum Thema LLM.
+", ,True,create_dataobject
+104,"Generiere für mich ein öffentliches Datenobjekt.
+", ,True,create_dataobject
+105,"Erstelle ein Datenobjekt mit dem Slug llm-blog.
+", ,True,create_dataobject
+106,"Welche Datenobjekte habe ich?
+", ,True,get_dataobjects
+107,"Gibt es ein Datenobjekt mit dem Namen LLM?
+", ,True,get_dataobjects
+108,"Wie viele Datenobjekte habe ich?
+", ,True,get_dataobjects
+109,"Wie heißt das zweite gespeicherte Datenobjekt?
+", ,True,get_dataobjects
+110,"Welche Namen für Datenobjekte sind bereits vergeben?
+", ,True,get_dataobjects
+111,"Ändere den Namen des Datenobjekts LLM zu Transformer.
+", ,True,edit_dataobject
+112,"Gib meinem Datenobjekt einen anderen Namen.
+","Um den Namen Ihres Datenobjekts zu ändern, müssen wir die Funktion `edit_dataobject` verwenden.  Diese Funktion erlaubt es, verschiedene Attribute eines Datenobjekts zu ändern, inklusive des Namens.  Dafür benötigen wir jedoch die ID des Datenobjekts, das Sie ändern möchten.  Können Sie mir bitte die ID Ihres Datenobjekts mitteilen?
+",False, 
+113,"Das Transformer-Datenobjekt soll einen anderen Namen erhalten.
+","Um das Transformer-Datenobjekt umzubenennen, benötige ich mehr Informationen.  `default_api.edit_dataobject` könnte verwendet werden, aber dafür brauche ich die ID des Datenobjekts.  Der Name allein reicht nicht aus, um das Objekt eindeutig zu identifizieren.  Ich kann die ID nicht aus dem Namen ableiten.
+
+Daher verwende ich `default_api.get_dataobjects()` um alle vorhandenen Datenobjekte aufzulisten und die ID des Transformer-Datenobjekts zu ermitteln.  Danach kann ich `default_api.edit_dataobject` verwenden, um den Namen zu ändern.
+
+",True,get_dataobjects
+114,"Ändere den Inhalt eines Datenobjekts.
+","
+",True,use_RAG
+115,"Kannst du das Datenobjekt anders benennen?
+","Um ein Datenobjekt umzubenennen, benötige ich zunächst den aktuellen Namen des Datenobjekts.  Da die Funktion `edit_dataobject`  die Möglichkeit bietet, den Namen eines Datenobjekts zu ändern, ist dies das geeignete Tool.  Allerdings muss der Index des Datenobjekts bekannt sein.  Dies kann über `get_dataobjects()` ermittelt werden.
+
+Um den Vorgang zu vervollständigen, benötige ich den aktuellen Namen des Datenobjekts und den neuen gewünschten Namen.
+",False, 
+116,"Lösche das Datenobjekt mit dem Namen Transformer.
+", ,True,delete_dataobject
+117,"Ich brauche das Datenobjekt LLM nicht mehr.
+", ,True,delete_dataobject
+118,"Kannst du das letzte gespeicherte Datenobjekt wieder löschen?
+", ,True,delete_dataobject
+119,"Lösche für mich LLM.
+", ,True,delete_dataobject
+120,"Entferne ein Datenobjekt.
+", ,True,delete_dataobject
+121,"Schreibe mir eine E-Mail.
+","Die Frage ""Schreibe mir eine E-Mail"" kann nicht direkt mit den gegebenen Funktionen beantwortet werden.  Die Funktion `use_RAG` wird daher verwendet, um die Aufgabe zu lösen.
+
+",True,use_RAG
+122,"Lade für mich ein Bild hoch.
+","Die Frage ""Lade für mich ein Bild hoch"" passt zu keinem der verfügbaren Tools.  Daher wird `use_RAG` verwendet.
+
+",True,use_RAG
+123,"Welche Downloads habe ich getätigt?
+","
+",True,use_RAG
+124,"Wechsle vom Light-Mode zum Dark-Mode.
+","Die Frage ""Wechsle vom Light-Mode zum Dark-Mode"" passt zu keinem der zur Verfügung stehenden Tools.  Daher wird `use_RAG` verwendet.
+
+",True,use_RAG
+125,Erhöhe die Lautstärke um zwei Stufen.,"Die Frage ""Erhöhe die Lautstärke um zwei Stufen"" kann nicht mit den gegebenen APIs beantwortet werden.  Daher wird `use_RAG` verwendet.
+
+",True,use_RAG

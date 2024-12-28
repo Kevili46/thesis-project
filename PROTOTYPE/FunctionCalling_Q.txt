@@ -1,0 +1,25 @@
+Erstelle ein privates Datenobjekt mit dem Namen LLM.
+Kannst du mir ein Datenobjekt erstellen, das öffentlich ist?
+Erzeuge ein Datenobjekt zum Thema LLM.
+Generiere für mich ein öffentliches Datenobjekt.
+Erstelle ein Datenobjekt mit dem Slug llm-blog.
+Welche Datenobjekte habe ich?
+Gibt es ein Datenobjekt mit dem Namen LLM?
+Wie viele Datenobjekte habe ich?
+Wie heißt das zweite gespeicherte Datenobjekt?
+Welche Namen für Datenobjekte sind bereits vergeben?
+Ändere den Namen des Datenobjekts LLM zu Transformer.
+Gib meinem Datenobjekt einen anderen Namen.
+Das Transformer-Datenobjekt soll einen anderen Namen erhalten.
+Ändere den Inhalt eines Datenobjekts.
+Kannst du das Datenobjekt anders benennen?
+Lösche das Datenobjekt mit dem Namen Transformer.
+Ich brauche das Datenobjekt LLM nicht mehr.
+Kannst du das letzte gespeicherte Datenobjekt wieder löschen?
+Lösche für mich LLM.
+Entferne ein Datenobjekt.
+Schreibe mir eine E-Mail.
+Lade für mich ein Bild hoch.
+Welche Downloads habe ich getätigt?
+Wechsle vom Light-Mode zum Dark-Mode.
+Erhöhe die Lautstärke um zwei Stufen.

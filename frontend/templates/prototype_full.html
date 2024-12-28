@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>AI-Testing | Function Calling</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='styles/style.css') }}" />
+  <link rel="stylesheet" href="{{ url_for('static', filename='styles/color.css') }}" />
+  <link rel="icon" type="image/png" sizes="32x32" href="{{ url_for('static', filename='img/favicon-32x32.png') }}" />
+  <script src="{{ url_for('static', filename='scripts/nav.js') }}" defer></script>
+  <script src="{{ url_for('static', filename='scripts/write_message.js') }}" defer></script>
+</head>
+
+<body>
+  <nav id="main-nav">
+    <ul></ul>
+  </nav>
+  <div class="content">
+    <h1>Chat with Prototype</h1>
+    <div class="pt-chat-box">
+      <div class="pt-history">
+        {% for conv in conversation %}
+        {% if conv.user %}
+        <div class="chat-line user">
+          <div class="text">{{conv.user}}</div>
+        </div>
+        {% endif %}
+        {% if conv.system %}
+        <div class="chat-line system">
+          <div class="text">{{conv.system}}</div>
+        </div>
+        {% endif %}
+        {% endfor %}
+      </div>
+      <form action="/pt-full" method="post" onsubmit="writeMessage()">
+        <textarea name="question" id="question"></textarea>
+        <input type="submit" value="ask AI" />
+      </form>
+    </div>
+    <!-- {% if result %}
+    <h2>{{question}}</h2>
+    <p class="answer">{{result.parts}}</p>
+    <p>{{result.usage_metadata}}</p>
+    <hr />
+    {% endif %} -->
+  </div>
+</body>
+
+</html>

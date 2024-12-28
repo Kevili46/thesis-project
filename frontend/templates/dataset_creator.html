@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>AI-Testing | Dataset Creator</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='styles/style.css') }}" />
+  <link rel="stylesheet" href="{{ url_for('static', filename='styles/color.css') }}" />
+  <link rel="icon" type="image/png" sizes="32x32" href="{{ url_for('static', filename='img/favicon-32x32.png') }}" />
+  <script src="{{ url_for('static', filename='scripts/nav.js') }}" defer></script>
+</head>
+
+<body>
+  <div id="loader"><span></span></div>
+  <nav id="main-nav">
+    <ul></ul>
+  </nav>
+  <div class="content create-set">
+    <h1>Create a supervised set for Fine Tuning</h1>
+    <p>saves to: {{file}}</p>
+    <form action="/dataset-creator-sum" method="post">
+      <div class="create-set-texts">
+        <div class="input-field">
+          <textarea name="system" id="system"></textarea>
+          <label for="system">System</label>
+        </div>
+        <div class="input-field">
+          <textarea name="user" id="user"></textarea>
+          <label for="user">User</label>
+        </div>
+        <div class="input-field">
+          <textarea name="model" id="model"></textarea>
+          <label for="model">Model</label>
+        </div>
+      </div>
+      <div class="input-field">
+        <input type="submit" value="create set" />
+      </div>
+    </form>
+    <p>saves to: {{file_ft}}</p>
+    <form action="/dataset-creator-io" method="post">
+      <div class="create-set-texts">
+        <div class="input-field">
+          <textarea name="input" id="input"></textarea>
+          <label for="input">Input</label>
+        </div>
+        <div class="input-field-radio">
+          <p> Execute action:</p>
+          <div class="radio-box">
+            <input type="radio" name="action" value="True" id="action-y">
+            <label for="action-y">Yes</label>
+          </div>
+          <div class="radio-box">
+            <input type="radio" name="action" value="False" id="action-n">
+            <label for="action-n">No</label>
+          </div>
+        </div>
+        <div class="input-field">
+          <textarea name="output" id="output"></textarea>
+          <label for="output">Output</label>
+        </div>
+      </div>
+      <div class="input-field">
+        <input type="submit" value="create set" />
+      </div>
+    </form>
+    {%if session['notice'] != '' %}
+    <h2 class="notice">{{session['notice']}}</h2>
+    {% endif %}
+  </div>
+</body>
+
+</html>

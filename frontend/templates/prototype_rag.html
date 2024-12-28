@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>AI-Testing | Protoype RAG</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='styles/style.css') }}" />
+  <link rel="stylesheet" href="{{ url_for('static', filename='styles/color.css') }}" />
+  <link rel="icon" type="image/png" sizes="32x32" href="{{ url_for('static', filename='img/favicon-32x32.png') }}" />
+  <script src="{{ url_for('static', filename='scripts/nav.js') }}" defer></script>
+  <script src="{{ url_for('static', filename='scripts/suggestions.js') }}" defer></script>
+</head>
+
+<body>
+  <div id="loader"><span></span></div>
+  <nav id="main-nav">
+    <ul></ul>
+  </nav>
+  <div class="content">
+    <h1>Chat with RAG-System</h1>
+    <form action="/" sendPrompt method="post">
+      <div class="input-field ai-chat">
+        <textarea name="question" id="question"></textarea>
+        <div class="suggestions"></div>
+        <input type="submit" value="ask AI" />
+      </div>
+    </form>
+    <form action="/clear-session" method="get">
+      <input type="submit" value="clear session" />
+    </form>
+    {% if result %}
+    <h2>{{question}}</h2>
+    <p class="answer">{{result.text}}</p>
+    <p>{{result.usage_metadata}}</p>
+    <hr />
+    <h2>LOG</h2>
+    <p>{{log}}</p>
+    {% endif %}
+  </div>
+</body>
+
+</html>

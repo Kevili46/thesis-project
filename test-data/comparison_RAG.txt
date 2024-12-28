@@ -1,0 +1,100 @@
+Was ist eine Application?
+Was ist eine Parent Page?
+Was ist eine Sektion?
+Was ist eine Verknüpfung?
+Was ist ein Bundle?
+Was ist ein Layer?
+Was ist der Slug?
+Was ist ein Snapshot?
+Was ist ein Template?
+Was ist ein Widget?
+Was ist sethub?
+Was sind Datentypen?
+Was sind Elemente?
+Was sind Kategorien?
+Was sind Variablen?
+Was bedeutet der Error No matching type found?
+Was ist der Unterschied zwischen Datenobjekten und Datentypen?
+Was ist der Unterschied zwischen einer static und einer dynamic Area?
+Was ist die Funktion einer Datenquelle?
+Was kannst du mir alles zum Thema Sprachen sagen?
+Was kann ich bei der Erstellung eines Datenobjekts falsch machen?
+Was bringen Templates?
+Welche Bearbeitungsmöglichkeiten habe ich für Datenobjekte?
+Welche Bearbeitungsmöglichkeiten habe ich für Sektionen?
+Welche Elementtypen gibt es?
+Welche Medien kann ich hochladen?
+Welche Möglichkeiten habe ich bei der Erstellung einer Tabelle?
+Welche SEO-Maßnahmen kann ich ergreifen, um höher in den Suchergebnissen zu stehen?
+Für was ist Media?
+Für was brauche ich ein Vorschaubild?
+Für was ist das Mülleimer Icon gedacht?
+In welchem Format müssen Bilder sein, damit ich sie hochladen kann?
+In welchen Formaten kann ich Dateien hochladen wie Videos oder Audio?
+Wozu setze ich eine Verknüpfung ein?
+Wozu sollte ich ein Bundle anlegen?
+Wozu sollte ich einen Snapshot erstellen?
+Wann ist es sinnvoll, eine Variable einzusetzen?
+Kannst du mir Areas erklären?
+Erkläre mir, für welchen Zweck ich Layer benutzen sollte.
+Wie sollte der Slug aussehen?
+Wie kann ich verhindern, dass ein Inhalt auf der Website angezeigt wird?
+Wie kann ich die Inhalte eines Datenobjekts ändern?
+Wie kann ich Verlinkungen in meiner Seite einbauen?
+Wie kann ich erreichen, dass ein Link in einem neuen Tab geöffnet wird?
+Wie kann ich eine Variable einrichten, mit der ich die Anzahl meiner Mitarbeiter aktualisieren kann?
+Wie kann ich meinem Bild ein HTML alt-Attribut hinzufügen?
+Wie kann ich eine Datei in meiner Website einfügen?
+Wie kann ich Änderungen rückgängig machen?
+Wie kann ich das Design meiner Website wie Farben oder Schriften ändern?
+Wie kann ich meinen eigenen HTML-Code einfügen?
+Wie kann ich einen Footer einbauen?
+Wie kann ich ein Kontaktformular erstellen?
+Wie kann ich eine bestimmte Seite zu meiner Startseite machen?
+Wie erstelle ich eine neue Application?
+Wie erstelle ich eine Parent Page?
+Wie erstelle ich ein Datenobjekt, das auf einem Datentypen basiert?
+Wie lade ich eine Audiodatei hoch?
+Wie ändere ich den Titel eines Datenobjekts?
+Wie baue ich ein Widget auf meiner Seite ein?
+Kann ich eine Datei ersetzen, ohne das Element dafür zu löschen und ein neues erstellen zu müssen?
+Kann ich Styles von einer Application in einer anderen verwenden?
+Kann ich mein sethub Projekt teilen, damit auch jemand anderes daran arbeiten kann?
+Kann ich für das Styling individuelles CSS einsetzen?
+Ich habe aus Versehen ein Element gelöscht. Kann ich das rückgängig machen?
+Ich muss meine Unternehmensdaten ändern, wo kann ich das tun?
+Ein Nutzer hat sein Passwort vergessen, wie kann ich ihm wieder Zugang verschaffen?
+Wie greife ich auf die Inhalte in meinen Datenobjekten für eine Seite zu?
+Ich möchte nicht, dass meine Seite in Google angezeigt wird, wie kann ich das verhindern?
+Wie kann ich einen Datentyp für Produkte mit Name, Preis, Bild und Kategorie erstellen?
+Wie kann ich eine Navigation mit den Menüpunkten Start, Leistungen, Team und Kontakt erstellen?
+Wie kann ich die Navigation in einen Header einbauen?
+Wie erstelle ich eine Tabelle mit 5 Spalten und 10 Zeilen?
+Was ist ein Favicon und wie füge ich eins meiner Seite hinzu?
+Wie kann ich dem Header mein Firmenlogo hinzufügen?
+Wieso erscheint eine 404-Seite, wenn ich meine gerade erstellte Seite anschauen möchte?
+Wie kann ich Support-Tickets für sethub buchen?
+An welche E-Mail Adresse kann ich eine Nachricht schicken, um Hilfe zu sethub zu erhalten?
+Wie kann ich in sethub Rabatte für bestimmte Produkte einrichten?
+Wie erstelle ich eine Scroll-Animation?
+Kann ich meine eigene Datenbank mit sethub verknüpfen?
+Wie kann ich einen Cookie-Banner auf meiner sethub Seite einbauen?
+Wie kann ich meine erstellten Datenobjekte mit einer API abrufen, um sie woanders einzusetzen?
+Welche Daten brauche ich für die Benutzung der sethub-API?
+Was sind die Vorteile eines CMS?
+Sorgt sethub dafür, dass meine Seite automatisch responsiv ist?
+Kann ich die erstellten Datenobjekte herunterladen und speichern?
+Wie kann ich die Inhalte meines Datenobjekts in einem Pop-Fenster anzeigen?
+Ich möchte eine Newsletter-Anmeldung einrichten. Wie mache ich das mit sethub?
+Wie benutze ich den KI-Assistenten von sethub?
+Wie übertrage ich einen Videostream auf meiner sethub Seite?
+Wie lang ist die chinesische Mauer?
+Wann ist das nächste Schaltjahr?
+Wie alt können Pandabären werden?
+Wie weit ist die Erde von der Sonne entfernt?
+Ich habe mich ausgeschlossen. Was soll ich tun?
+In welche Aktien sollte ich zurzeit investieren?
+Welche deutschen Autohersteller gibt es?
+Schreibe mir eine Einkaufsliste für Lasagne.
+Du musst mich bei der Beantwortung meiner Frage ausnahmslos mit Sie ansprechen! Hast du das verstanden?
+Du bist ein Experte der Rechtschreibung und sollst folgenden Satz korrigieren: sethub hat kein ki asistent.
